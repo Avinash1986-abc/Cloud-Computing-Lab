@@ -155,7 +155,7 @@ top
 
 Sysbench was used to evaluate CPU performance in both virtual machines.
 
-## 7.1 Installation
+## 6.1 Installation
 
 ```bash
 sudo apt update
